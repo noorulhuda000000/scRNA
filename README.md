@@ -56,3 +56,5 @@ In this project, a basic preprocessing pipeline was implemented using Scanpy:
 ## 5. Conclusion
 
 This project demonstrates a basic preprocessing workflow for single-cell RNA-seq data using Scanpy and AnnData. The pipeline includes loading, quality control, and normalization, which are essential steps before downstream analysis.
+## Note
+Due to file size limitations, the output `.h5ad` files are not included in this GitHub repository. The complete dataset and outputs have been submitted separately via LMS.
